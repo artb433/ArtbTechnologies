@@ -8,7 +8,6 @@ void main() {
  print(salaries);
  dynamic thing = 'Tom';
  print(thing);
- String state;
 
  }
 
