@@ -18,7 +18,7 @@ void main() {
   //   print('You are young');
   // }
 
-  String name;
-  name = 'Tom';
-  print("Hello ${name}");
+  String personName;
+  personName = 'mic';
+  print('Hello $personName');
 }
