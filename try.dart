@@ -22,3 +22,8 @@ void main() {
   name = 'Tom';
   print("Hello ${name}");
 }
+
+void greet(String name) {
+  name = Mic;
+  print('Hello $name');
+}
